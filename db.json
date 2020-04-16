@@ -1,0 +1,135 @@
+{"content":
+{
+    "educationList": [
+        {
+            "establishmentName": "School",
+            "graduationYear": "1992",
+            "description": "Went to Hyderabad municipal school"
+        },
+        {
+            "establishmentName": "Middle School",
+            "graduationYear": "1994",
+            "description": "Enrolled to middle school"
+        },
+        {
+            "establishmentName": "High School",
+            "graduationYear": "1999",
+            "description": "Graduated from Hyderabad high school"
+        },
+        {
+            "establishmentName": "Community College",
+            "graduationYear": "2000",
+            "description": "Was rejected to get paid for university by parents, enrolled to community college"
+        },
+        {
+            "establishmentName": "Delhi University",
+            "graduationYear": "2000",
+            "description": "Won lottery and paid for his tuition in Delhi University"
+        }
+    ],
+    "experienceList": [
+        {
+            "companyName": "HCL",
+            "companyYears": "1991 - 1992",
+            "companyPosition": "Janitor",
+            "jobDescription": "Was ovelooking programmers striving to get some knowledge"
+        },
+        {
+            "companyName": "Restaurant",
+            "companyYears": "1992 - 1996",
+            "companyPosition": "Waiter",
+            "jobDescription": "Became a waiter to learn from developers who come for coffee"
+        },
+        {
+            "companyName": "Indesit",
+            "companyYears": "1996 - 2000",
+            "companyPosition": "Washing machines assembler",
+            "jobDescription": "Was assembling washing machines"
+        },
+        {
+            "companyName": "IBM",
+            "companyYears": "2000 - 2002",
+            "companyPosition": "WAS Admin",
+            "jobDescription": "WebSphere Application server administration"
+        },
+        {
+            "companyName": "ShrawanWorks",
+            "companyYears": "2002-present",
+            "companyPosition": "CEO",
+            "jobDescription": "Established own contora"
+        }
+    ],
+    "feedbackList": [
+        {
+        	"feedbackAuthor":{
+            "personName": "Hanna",
+            "personLastName": "Lindemann",
+            "jobPosition": "CEO",
+            "personCompany": "BananaBomb",
+        	"picturePath": "../../../assets/img/face1.jpg"
+        	},
+            "feedbackText": "It has been a pleasure to work with all of you on the drawing up of this 2005 draft budget, which I hope can be voted for on Thursday without too many problems."
+        },
+        {
+            "feedbackAuthor":{
+            "personName": "Jordan",
+            "personLastName": "Brown",
+            "jobPosition": "Front-End developer",
+            "personCompany": "FE-Kids",
+        	"picturePath": "../../../assets/img/face2.jpg"
+        	},
+            "feedbackText": "He was a great man, my granddad, a very calm, logical and methodical guy. I suppose I'm trying to be more like him as I get older."
+        },
+        {
+            "feedbackAuthor":{
+            "personName": "Gwen",
+            "personLastName": "Stacy",
+            "jobPosition": "Marketing Director",
+            "personCompany": "Marvel",
+        	"picturePath": "../../../assets/img/face3.jpg"
+        	},
+            "feedbackText": "I expect one way or another to keep in touch with you because it was a real pleasure to work with you and I hope this will continue in another way."
+        }
+    ],
+    "contactsList": [
+        {
+            "contactIcon": "fa-twitter-square fab",
+            "contactName": "Twitter",
+            "contactData": "https://www.twitter.com/shravanio"
+        },
+        {
+            "contactIcon": "fa-facebook-square fab",
+            "contactName": "Facebook",
+            "contactData": "https://www.facebook.com/ShravanThota"
+        },
+        {
+            "contactIcon": "fa-phone-square fas",
+            "contactName": "Phone",
+            "contactData": "937-99-92"
+        }
+    ],
+    "skillList": [
+        {
+            "technology": "Angular",
+            "level": "beginner"
+        },
+        {
+            "technology": "Cooking",
+            "level": "pro"
+        },
+        {
+            "technology": "Eating",
+            "level": "guru"
+        }
+    ],
+    "aboutText": 
+    {
+    	"header": "Meet Mr. Kumar!",
+    	"text": "Shravan Kumar Thota is a 44-year-old senior programmer who enjoys meditation, listening to music and cookery. He is smart and kind, but can also be very greedy and a bit selfish. He is an Indian Hindu. He has a post-graduate degree in computing. Physically, Shravan is in pretty good shape. He is average-height with pale skin, black hair and black eyes. He has buck teeth. He grew up in a middle class neighbourhood. He was raised by his mother, his father having left when he was young. He is currently single. His most recent romance was with a chef called Whitney Alicia Mclaughlin, who was 11 years older than him. They broke up because Whitney felt Shravan was too materialistic."
+    }
+},
+"contentPost": {
+	"response": "OK"
+}
+
+}
